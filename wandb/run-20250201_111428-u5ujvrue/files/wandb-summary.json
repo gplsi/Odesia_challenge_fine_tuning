@@ -1,0 +1,1 @@
+{"iter_time":0.24979082122445107,"step":5263,"loss":0.19073861837387085,"learning_rate":9.065805376435313e-09,"iter":21055,"epoch":0,"_timestamp":1.7384154918341594e+09,"trainer/global_step":21057,"_step":4213,"val_loss":0.16406479477882385,"_runtime":7023.231970408,"val_ppl":1.178290659702015,"_wandb":{"runtime":7044}}

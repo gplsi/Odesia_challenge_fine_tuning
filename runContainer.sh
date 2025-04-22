@@ -1,0 +1,1 @@
+docker run --name odesia-challenge-container --net=host --gpus '"device=3,4"' -it -v .:/workspace odesia-challenge

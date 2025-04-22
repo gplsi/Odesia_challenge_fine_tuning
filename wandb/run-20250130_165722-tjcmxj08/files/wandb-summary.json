@@ -1,0 +1,1 @@
+{"trainer/global_step":2135,"val_ppl":43.66419188158536,"epoch":0,"step":426,"iter":2135,"_step":427,"iter_time":0.241537363268435,"_runtime":570.322990465,"_timestamp":1.7382568129810154e+09,"learning_rate":9.853500669945776e-06,"loss":0.11484020948410034,"_wandb":{"runtime":571},"val_loss":3.7765283584594727}

@@ -1,0 +1,9 @@
+transformers==4.44.2
+datasets
+lightning
+notebook
+wandb
+scikit-learn
+deepspeed
+jsonargparse
+openpyxl

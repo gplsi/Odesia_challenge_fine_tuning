@@ -1,0 +1,42 @@
+{
+  "os": "Linux-5.4.0-166-generic-x86_64-with-glibc2.10",
+  "python": "CPython 3.8.12",
+  "startedAt": "2025-01-24T08:11:18.132933Z",
+  "program": "src/fabric_fine_tuning_full.py",
+  "codePath": "src/fabric_fine_tuning_full.py",
+  "email": "egr68@gcloud.ua.es",
+  "root": ".",
+  "host": "allen.iuii.ua.es",
+  "executable": "/opt/conda/bin/python3.8",
+  "codePathLocal": "src/fabric_fine_tuning_full.py",
+  "cpu_count": 128,
+  "cpu_count_logical": 256,
+  "gpu": "A100-SXM4-40GB",
+  "gpu_count": 2,
+  "disk": {
+    "/": {
+      "total": "1888426192896",
+      "used": "1433331445760"
+    }
+  },
+  "memory": {
+    "total": "1081995915264"
+  },
+  "cpu": {
+    "count": 128,
+    "countLogical": 256
+  },
+  "gpu_nvidia": [
+    {
+      "name": "A100-SXM4-40GB",
+      "memoryTotal": "42506321920",
+      "architecture": "Ampere"
+    },
+    {
+      "name": "A100-SXM4-40GB",
+      "memoryTotal": "42506321920",
+      "architecture": "Ampere"
+    }
+  ],
+  "cudaVersion": "11.4"
+}
